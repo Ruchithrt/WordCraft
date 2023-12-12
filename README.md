@@ -2,7 +2,10 @@
 
 TextUtils is a versatile utility React app designed to simplify text manipulation tasks. Built using JavaScript and incorporating `react-router-dom`, this app provides a seamless user experience for converting text cases, clearing formatting, copying to the clipboard, and even utilizing text-to-speech functionality.
 <hr>
+
+
 ## Features
+
 ### 1. Convert to Upper Case
 Easily transform your text to uppercase with a single click. This feature is handy when you need text in capital letters, ensuring consistency and readability.
 
@@ -18,6 +21,7 @@ Copy your modified text to the clipboard seamlessly. Quickly integrate TextUtils
 ### 5. Text-to-Speech
 TextUtils goes beyond traditional text manipulation by offering a text-to-speech feature. Have your text spoken out loud, making it a valuable tool for accessibility or when you want to review content hands-free.
 <hr>
+
 ## Getting Started
 
 1. **Installation:**
