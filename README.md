@@ -1,6 +1,6 @@
 # TextUtils
 
-TextUtils is a versatile utility React app designed to simplify text manipulation tasks. Built using JavaScript and incorporating `react-router-dom`, this app provides a seamless user experience for converting text cases, clearing formatting, copying to the clipboard, and even utilizing text-to-speech functionality.
+TextUtils is a versatile utility `React app` designed to simplify text manipulation tasks. Built using JavaScript and incorporating `react-router-dom`, this app provides a seamless user experience for converting text cases, clearing formatting, copying to the clipboard, and even utilizing text-to-speech functionality.
 <hr>
 
 
