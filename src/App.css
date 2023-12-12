@@ -1,0 +1,3 @@
+.caccordion-button ::after{
+  filter: invert(1);
+}
