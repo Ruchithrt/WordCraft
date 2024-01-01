@@ -1,6 +1,6 @@
-# TextUtils
+# WordCraft
 
-TextUtils is a versatile utility `React app` designed to simplify text manipulation tasks. Built using JavaScript and incorporating `react-router-dom`, this app provides a seamless user experience for converting text cases, clearing formatting, copying to the clipboard, and even utilizing text-to-speech functionality.
+WordCraft is a versatile utility `React app` designed to simplify text manipulation tasks. Built using JavaScript and incorporating `react-router-dom`, this app provides a seamless user experience for converting text cases, clearing formatting, copying to the clipboard, and even utilizing text-to-speech functionality.
 <hr>
 
 
@@ -16,17 +16,17 @@ Transform text to lowercase effortlessly. Perfect for situations where you want 
 Remove any formatting from your text with the clear formatting feature. This is useful when pasting text from different sources and you want to start with a clean slate.
 
 ### 4. Copy to Clipboard
-Copy your modified text to the clipboard seamlessly. Quickly integrate TextUtils into your workflow by easily copying the transformed text for use in other applications.
+Copy your modified text to the clipboard seamlessly. Quickly integrate WordCraft into your workflow by easily copying the transformed text for use in other applications.
 
 ### 5. Text-to-Speech
-TextUtils goes beyond traditional text manipulation by offering a text-to-speech feature. Have your text spoken out loud, making it a valuable tool for accessibility or when you want to review content hands-free.
+WordCraft goes beyond traditional text manipulation by offering a text-to-speech feature. Have your text spoken out loud, making it a valuable tool for accessibility or when you want to review content hands-free.
 <hr>
 
 ## Getting Started
 
 1. **Installation:**
-   - Clone the repository: `git clone https://github.com/your-username/textutils.git`
-   - Navigate to the project directory: `cd textutils`
+   - Clone the repository: `git clone https://github.com/your-username/WordCraft.git`
+   - Navigate to the project directory: `cd WordCraft`
    - Install dependencies: `npm install`
 
 2. **Usage:**
@@ -37,5 +37,5 @@ TextUtils goes beyond traditional text manipulation by offering a text-to-speech
    - Choose from the available options such as "Convert to Upper Case," "Convert to Lower Case," "Clear Formatting," "Copy to Clipboard," or "Speak."
 
 3. **Enjoy the Convenience:**
-   - Enhance your text-related tasks with the convenience and efficiency of TextUtils.
+   - Enhance your text-related tasks with the convenience and efficiency of WordCraft.
 
